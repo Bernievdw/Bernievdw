@@ -3,7 +3,7 @@
 
 - Feel free to send me an email! **bernardvanderwal@gmail.com**
 
-- I’m currently learning **Elastic + and React**
+- I’m currently learning **Elastic + Kibana + React**
 
 <h3 align="left">Connect with me:</h3>
 
