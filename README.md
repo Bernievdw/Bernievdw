@@ -30,32 +30,35 @@ I am an innovative and analytical Junior Software Developer with 4 years of prof
 	<a href="https://www.w3schools.com/html/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 	</a>
-  
-<a href="https://www.w3schools.com/css/" target="_blank" rel=noopener>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 	</a>
-	
-  <a href="https://getbootstrap.com" target="_blank" rel=noopener>
+	<a href="https://getbootstrap.com" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 	</a>
 </p>
 
-<h3 align="left">Back-end and databases</h3>
+<h3 align="left">Back-end and Databases</h3>
 <p align="left">
-
-  <a href="https://rubyonrails.org/" target="_blank" rel=noopener>
+	<a href="https://rubyonrails.org/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="ruby_on_rails" width="40" height="40"/>
 	</a>
-  
-<a href="https://www.postgresql.org/" target="_blank" rel=noopener>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="nuxt" width="40" height="40"/>
-</a>
-	
+	<a href="https://www.postgresql.org/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+	</a>
+	<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+	</a>
 </p>
 
 <h3 align="left">DevOps and Cloud:</h3>
 <p align="left">
-	<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+	<a href="https://heroku.com" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+	</a>
+	<a href="https://azure.microsoft.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+	</a>
 </p>
 
 <h3 align="left">Tools:</h3>
