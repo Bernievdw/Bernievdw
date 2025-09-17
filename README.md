@@ -1,9 +1,12 @@
 <h1 align="center">Hello there, my name is Bernie 💻</h1>
-<h3 align="center">A junior Fullstack Developer 💻</h3>
+<h3 align="center">A Fullstack Developer 💻</h3>
 
 - Feel free to send me an email! **bernardvanderwal@gmail.com**
 
-- I’m currently learning **Elastic + Kibana + React**
+- Software Engineer | 4+ Years of Experience | Passionate About Innovation & Technology | Masters in Business, Computation, and Application (MBCA).
+
+I am an innovative and analytical Junior Software Developer with 4 years of professional experience applying object-oriented design principles to build scalable and efficient software solutions.
+
 
 <h3 align="left">Connect with me:</h3>
 
@@ -11,11 +14,15 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
 	<a href="https://www.ruby-lang.org/en/documentation/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+	</a>
+	<a href="https://www.python.org/doc/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+	</a>
 </p>
 
 <h3 align="left">Front-end:</h3>
