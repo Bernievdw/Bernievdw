@@ -59,6 +59,9 @@ I am an innovative and analytical Junior Software Developer with 4 years of prof
 	<a href="https://azure.microsoft.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 	</a>
+	<a href="https://aws.amazon.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+	</a>
 </p>
 
 <h3 align="left">Tools:</h3>
