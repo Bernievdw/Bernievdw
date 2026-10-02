@@ -10,7 +10,7 @@ Based in Rio de Janeiro, Brazil · working remotely · MBA in Business Administr
 
 Most of my recent work lives in private repositories, so here's a summary:
 
-- **AI skincare assistant (mobile web app)**: scans product labels from a photo, builds a personalized routine and answers questions in an AI chat grounded in a specialist's rule set. Includes server-side guardrails that check AI answers before users see them, an analytics dashboard (funnels, retention, AI usage) and automated browser tests. React + TypeScript, Cloudflare Workers + D1, Claude API.
+- **AI skincare assistant**: a mobile web app prototype. React + TypeScript, Cloudflare Workers + D1, Claude API.
 - **Product catalog pipeline**: Python scrapers that collect ~1,000 products with full ingredient lists from brand websites, public e-commerce catalog APIs and open product databases, then clean, deduplicate and match them before import. Live prices are fetched on demand.
 - **Hotel operations dashboard**: task tracking and staff workflows for a hotel team, with an AI chat assistant and integrations into the property-management system's REST APIs. Cloudflare Workers + D1.
 - **Vacation-rental website**: a direct-booking site with photo galleries, live availability and payments, connected to a channel manager's API so listings sync to Airbnb and Booking.com.
